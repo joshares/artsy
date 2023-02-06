@@ -23,6 +23,11 @@
     content: "✔";
     color: white;
   }
+  body {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-size: cover;
+  }
 }
 
 @layer components {
